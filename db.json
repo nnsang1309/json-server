@@ -27,19 +27,6 @@
     { "category_id": 2, "name": "Tea"},
     { "category_id": 3, "name": "Milk"}
   ],
-  "employee": [
-    {
-      "employee_id": 1,
-      "username": "nguyenvana",
-      "email": "vana@example.com",
-      "password": "hashedpassword",
-      "born": "1990-01-01",
-      "date_hired": "2022-06-01",
-      "gender": 1,
-      "role": "waiter",
-      "device_authentication": "unique_device_id"
-    }
-  ],
   "invoice": [
     {
       "order_id": 1,
@@ -57,16 +44,6 @@
     "order_id": 1,
     "product_id": 1,
     "quantity": 2
-  }
-  ],
-  "token": [
-  {
-    "id": 1,
-    "expired": 0,
-    "revoked": 0,
-    "token_value": "some_token_value",
-    "token_type": "auth_token",
-    "employee_id": 1
   }
   ]
 }
