@@ -16,16 +16,51 @@
   "product": [
     {
       "product_id": 1,
+      "name": "Latte",
+      "price": 65.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__LATTE_1.jpg",
+      "category_id": 1
+    },
+    {
+      "product_id": 2,
+      "name": "Cappuccino",
+      "price": 65.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CAPPUCINO.jpg",
+      "category_id": 1
+    },
+    {
+      "product_id": 3,
+      "name": "Americano",
+      "price": 65.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__AMERICANO_NONG.jpg",
+      "category_id": 1
+    },
+    {
+      "product_id": 4,
       "name": "Espresso",
-      "price": 2.50,
-      "image_url": "https://media.istockphoto.com/photos/cup-of-cafe-latte-with-coffee-beans-and-cinnamon-sticks-picture-id505168330?b=1&k=20&m=505168330&s=170667a&w=0&h=jJTePtpYZLR3M2OULX5yoARW7deTuAUlwpAoS4OriJg=",
+      "price": 65.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__EXPRESSO.jpg",
+      "category_id": 1
+    },
+    {
+      "product_id": 5,
+      "name": "Caramel Macchiato",
+      "price": 65.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
+      "category_id": 1
+    },
+    {
+      "product_id": 6,
+      "name": "Mocha Macchiato",
+      "price": 65.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__MOCHA.jpg",
       "category_id": 1
     }
   ],
   "productcategory": [
     { "category_id": 1, "name": "Coffee"},
-    { "category_id": 2, "name": "Tea"},
-    { "category_id": 3, "name": "Milk"}
+    { "category_id": 2, "name": "Freeze"},
+    { "category_id": 3, "name": "Tea"}
   ],
   "invoice": [
     {
