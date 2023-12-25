@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "tableorder": [
+    {"table_id": 1, "table_name": "Table 11"},
+    {"table_id": 2, "table_name": "Table 2"},
+    {"table_id": 3, "table_name": "Table 3"},
+    {"table_id": 4, "table_name": "Table 4"},
+    {"table_id": 5, "table_name": "Table 5"},
+    {"table_id": 6, "table_name": "Table 6"},
+    {"table_id": 7, "table_name": "Table 7"},
+    {"table_id": 8, "table_name": "Table 8"},
+    {"table_id": 9, "table_name": "Table 9"},
+    {"table_id": 10, "table_name": "Table 10"},
+    {"table_id": 11, "table_name": "Table 11"},
+    {"table_id": 12, "table_name": "Table 12"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "productcategory": [
+    { "category_id": 1, "name": "Coffee"},
+    { "category_id": 2, "name": "Tea"},
+    { "category_id": 3, "name": "Milk"}
+  ]
 }
