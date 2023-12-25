@@ -13,9 +13,60 @@
     {"table_id": 11, "table_name": "Table 11"},
     {"table_id": 12, "table_name": "Table 12"}
   ],
+  "product": [
+    {
+      "product_id": 1,
+      "name": "Espresso",
+      "price": 2.50,
+      "image_url": "https://media.istockphoto.com/photos/cup-of-cafe-latte-with-coffee-beans-and-cinnamon-sticks-picture-id505168330?b=1&k=20&m=505168330&s=170667a&w=0&h=jJTePtpYZLR3M2OULX5yoARW7deTuAUlwpAoS4OriJg=",
+      "category_id": 1
+    }
+  ],
   "productcategory": [
     { "category_id": 1, "name": "Coffee"},
     { "category_id": 2, "name": "Tea"},
     { "category_id": 3, "name": "Milk"}
+  ],
+  "employee": [
+    {
+      "employee_id": 1,
+      "username": "nguyenvana",
+      "email": "vana@example.com",
+      "password": "hashedpassword",
+      "born": "1990-01-01",
+      "date_hired": "2022-06-01",
+      "gender": 1,
+      "role": "waiter",
+      "device_authentication": "unique_device_id"
+    }
+  ],
+  "invoice": [
+    {
+      "order_id": 1,
+      "table_id": 1,
+      "status": "completed",
+      "total_amount": 100.00,
+      "payment_status": "paid",
+      "created_at": "2023-12-25T19:30:00Z",
+      "employee_id": 1
+    }
+  ],
+  "orderitem": [
+  {
+    "order_item_id": 1,
+    "order_id": 1,
+    "product_id": 1,
+    "quantity": 2
+  }
+  ],
+  "token": [
+  {
+    "id": 1,
+    "expired": 0,
+    "revoked": 0,
+    "token_value": "some_token_value",
+    "token_type": "auth_token",
+    "employee_id": 1
+  }
   ]
 }
