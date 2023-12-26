@@ -44,17 +44,52 @@
     },
     {
       "product_id": 5,
-      "name": "Caramel Macchiato",
+      "name": "Caramel",
       "price": 65.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
       "category_id": 1
     },
     {
       "product_id": 6,
-      "name": "Mocha Macchiato",
+      "name": "Mocha",
       "price": 65.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__MOCHA.jpg",
       "category_id": 1
+    },
+    {
+      "product_id": 7,
+      "name": "Classic",
+      "price": 55.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__CLASSIC_FREEZE_PHINDI.jpg",
+      "category_id": 2
+    },
+    {
+      "product_id": 8,
+      "name": "Caramel",
+      "price": 55.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__CARAMEL_FREEZE_PHINDI.jpg",
+      "category_id": 2
+    },
+    {
+      "product_id": 9,
+      "name": "SÔ-CÔ-LA",
+      "price": 55.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__FREEZE_CHOCO.jpg",
+      "category_id": 2
+    },
+    {
+      "product_id": 10,
+      "name": "Trà Xanh",
+      "price": 55.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__FREEZE_TRA_XANH.jpg",
+      "category_id": 2
+    },
+    {
+      "product_id": 11,
+      "name": "Cream",
+      "price": 55.000,
+      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__COOKIES_FREEZE.jpg",
+      "category_id": 2
     }
   ],
   "productcategory": [
