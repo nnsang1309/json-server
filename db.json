@@ -15,100 +15,100 @@
   ],
   "product": [
     {
-      "product_id": 1,
-      "name": "Latte",
+      "productId": 1,
+      "productName": "Latte",
       "price": 65.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__LATTE_1.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__LATTE_1.jpg",
       "categoryId": 1
     },
     {
-      "product_id": 2,
-      "name": "Cappuccino",
+      "productId": 2,
+      "productName": "Cappuccino",
       "price": 65.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CAPPUCINO.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CAPPUCINO.jpg",
       "categoryId": 1
     },
     {
-      "product_id": 3,
-      "name": "Americano",
+      "productId": 3,
+      "productName": "Americano",
       "price": 65.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__AMERICANO_NONG.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__AMERICANO_NONG.jpg",
       "categoryId": 1
     },
     {
-      "product_id": 4,
-      "name": "Espresso",
+      "productId": 4,
+      "productName": "Espresso",
       "price": 65.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__EXPRESSO.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__EXPRESSO.jpg",
       "categoryId": 1
     },
     {
-      "product_id": 5,
-      "name": "Caramel",
+      "productId": 5,
+      "productName": "Caramel",
       "price": 65.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
       "categoryId": 1
     },
     {
-      "product_id": 6,
-      "name": "Mocha",
+      "productId": 6,
+      "productName": "Mocha",
       "price": 65.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__MOCHA.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__MOCHA.jpg",
       "categoryId": 1
     },
     {
-      "product_id": 7,
-      "name": "Classic",
+      "productId": 7,
+      "productName": "Classic",
       "price": 55.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__CLASSIC_FREEZE_PHINDI.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__CLASSIC_FREEZE_PHINDI.jpg",
       "categoryId": 2
     },
     {
-      "product_id": 8,
-      "name": "Caramel",
+      "productId": 8,
+      "productName": "Caramel",
       "price": 55.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__CARAMEL_FREEZE_PHINDI.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__CARAMEL_FREEZE_PHINDI.jpg",
       "categoryId": 2
     },
     {
-      "product_id": 9,
-      "name": "Sô-Cô-La",
+      "productId": 9,
+      "productName": "Sô-Cô-La",
       "price": 55.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__FREEZE_CHOCO.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__FREEZE_CHOCO.jpg",
       "categoryId": 2
     },
     {
-      "product_id": 10,
-      "name": "Trà Xanh",
+      "productId": 10,
+      "productName": "Trà Xanh",
       "price": 55.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__FREEZE_TRA_XANH.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__FREEZE_TRA_XANH.jpg",
       "categoryId": 2
     },
     {
-      "product_id": 11,
-      "name": "Cream",
+      "productId": 11,
+      "productName": "Cream",
       "price": 55.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__COOKIES_FREEZE.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__COOKIES_FREEZE.jpg",
       "categoryId": 2
     },
     {
-      "product_id": 12,
-      "name": "Sen Vàng",
+      "productId": 12,
+      "productName": "Sen Vàng",
       "price": 45.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_SEN_VANG_CU_NANG.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_SEN_VANG_CU_NANG.jpg",
       "categoryId": 3
     },
     {
-      "product_id": 13,
-      "name": "Đậu Đỏ",
+      "productId": 13,
+      "productName": "Đậu Đỏ",
       "price": 45.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_XANH_DAU_DO.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_XANH_DAU_DO.jpg",
       "categoryId": 3
     },{
-      "product_id": 14,
-      "name": "Thạch Đào",
+      "productId": 14,
+      "productName": "Thạch Đào",
       "price": 45.000,
-      "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_THANH_DAO-09.jpg",
+      "imageUrl": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_THANH_DAO-09.jpg",
       "categoryId": 3
     }
   ],
