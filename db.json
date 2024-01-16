@@ -112,10 +112,10 @@
       "category_id": 3
     }
   ],
-  "productcategory": [
-    { "category_id": 1, "name": "Coffee"},
-    { "category_id": 2, "name": "Freeze"},
-    { "category_id": 3, "name": "Tea"}
+  "category": [
+    { "categoryId": 1, "categoryName": "Coffee"},
+    { "categoryId": 2, "categoryName": "Freeze"},
+    { "categoryId": 3, "categoryName": "Tea"}
   ],
   "invoice": [
     {
