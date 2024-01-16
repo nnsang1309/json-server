@@ -19,97 +19,97 @@
       "name": "Latte",
       "price": 65.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__LATTE_1.jpg",
-      "category_id": 1
+      "categoryId": 1
     },
     {
       "product_id": 2,
       "name": "Cappuccino",
       "price": 65.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CAPPUCINO.jpg",
-      "category_id": 1
+      "categoryId": 1
     },
     {
       "product_id": 3,
       "name": "Americano",
       "price": 65.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__AMERICANO_NONG.jpg",
-      "category_id": 1
+      "categoryId": 1
     },
     {
       "product_id": 4,
       "name": "Espresso",
       "price": 65.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__EXPRESSO.jpg",
-      "category_id": 1
+      "categoryId": 1
     },
     {
       "product_id": 5,
       "name": "Caramel",
       "price": 65.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__CARAMEL_MACCHIATTO.jpg",
-      "category_id": 1
+      "categoryId": 1
     },
     {
       "product_id": 6,
       "name": "Mocha",
       "price": 65.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__MOCHA.jpg",
-      "category_id": 1
+      "categoryId": 1
     },
     {
       "product_id": 7,
       "name": "Classic",
       "price": 55.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__CLASSIC_FREEZE_PHINDI.jpg",
-      "category_id": 2
+      "categoryId": 2
     },
     {
       "product_id": 8,
       "name": "Caramel",
       "price": 55.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__CARAMEL_FREEZE_PHINDI.jpg",
-      "category_id": 2
+      "categoryId": 2
     },
     {
       "product_id": 9,
       "name": "Sô-Cô-La",
       "price": 55.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2023/New_product/HLC_New_logo_5.1_Products__FREEZE_CHOCO.jpg",
-      "category_id": 2
+      "categoryId": 2
     },
     {
       "product_id": 10,
       "name": "Trà Xanh",
       "price": 55.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__FREEZE_TRA_XANH.jpg",
-      "category_id": 2
+      "categoryId": 2
     },
     {
       "product_id": 11,
       "name": "Cream",
       "price": 55.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__COOKIES_FREEZE.jpg",
-      "category_id": 2
+      "categoryId": 2
     },
     {
       "product_id": 12,
       "name": "Sen Vàng",
       "price": 45.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_SEN_VANG_CU_NANG.jpg",
-      "category_id": 3
+      "categoryId": 3
     },
     {
       "product_id": 13,
       "name": "Đậu Đỏ",
       "price": 45.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_XANH_DAU_DO.jpg",
-      "category_id": 3
+      "categoryId": 3
     },{
       "product_id": 14,
       "name": "Thạch Đào",
       "price": 45.000,
       "image_url": "https://www.highlandscoffee.com.vn/vnt_upload/product/06_2023/HLC_New_logo_5.1_Products__TRA_THANH_DAO-09.jpg",
-      "category_id": 3
+      "categoryId": 3
     }
   ],
   "category": [
