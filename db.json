@@ -1,17 +1,17 @@
 {
   "table": [
-    {"tableId": 1, "tableName": "Table 11", "stats": "Trống"},
-    {"tableId": 2, "tableName": "Table 2", "stats": "Có Khách"},
-    {"tableId": 3, "tableName": "Table 3", "stats": "Trống"},
-    {"tableId": 4, "tableName": "Table 4", "stats": "Trống"},
-    {"tableId": 5, "tableName": "Table 5", "stats": "Trống"},
-    {"tableId": 6, "tableName": "Table 6", "stats": "Trống"},
-    {"tableId": 7, "tableName": "Table 7", "stats": "Trống"},
-    {"tableId": 8, "tableName": "Table 8", "stats": "Trống"},
-    {"tableId": 9, "tableName": "Table 9", "stats": "Trống"},
-    {"tableId": 10, "tableName": "Table 10", "stats": "Trống"},
-    {"tableId": 11, "tableName": "Table 11", "stats": "Trống"},
-    {"tableId": 12, "tableName": "Table 12", "stats": "Trống"}
+    {"tableId": 1, "tableName": "Table 11", "status": "Trống"},
+    {"tableId": 2, "tableName": "Table 2", "status": "Có Khách"},
+    {"tableId": 3, "tableName": "Table 3", "status": "Trống"},
+    {"tableId": 4, "tableName": "Table 4", "status": "Trống"},
+    {"tableId": 5, "tableName": "Table 5", "status": "Trống"},
+    {"tableId": 6, "tableName": "Table 6", "status": "Trống"},
+    {"tableId": 7, "tableName": "Table 7", "status": "Trống"},
+    {"tableId": 8, "tableName": "Table 8", "status": "Trống"},
+    {"tableId": 9, "tableName": "Table 9", "status": "Trống"},
+    {"tableId": 10, "tableName": "Table 10", "status": "Trống"},
+    {"tableId": 11, "tableName": "Table 11", "status": "Trống"},
+    {"tableId": 12, "tableName": "Table 12", "status": "Trống"}
   ],
   "product": [
     {
