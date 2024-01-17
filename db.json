@@ -125,6 +125,14 @@
       "createDate": "2023-12-25T19:30:00Z",
       "totalAmount": 130.00,
       "paymentStatus": "Chưa thanh toán"      
+    },
+    {
+      "invoiceId": 2,
+      "tableId": 3,
+      "userId": 1,
+      "createDate": "2023-12-25T19:30:00Z",
+      "totalAmount": 130.00,
+      "paymentStatus": "Chưa thanh toán"      
     }
   ],
   "invoiceDetail": [
