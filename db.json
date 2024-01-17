@@ -1,6 +1,6 @@
 {
   "table": [
-    {"tableId": 1, "tableName": "Table 11", "status": "Empty"},
+    {"tableId": 1, "tableName": "Table 1", "status": "Empty"},
     {"tableId": 2, "tableName": "Table 2", "status": "Have"},
     {"tableId": 3, "tableName": "Table 3", "status": "Empty"},
     {"tableId": 4, "tableName": "Table 4", "status": "Empty"},
